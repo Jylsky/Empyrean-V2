@@ -1,0 +1,6 @@
+**/dist
+**/tests
+**/build
+**/__pycache__
+.venv
+.vscode
