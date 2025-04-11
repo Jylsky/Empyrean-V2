@@ -1,14 +1,14 @@
 <img src="img/banner.png" width="100%" height="100%" />
 
 <div align="center">
-    <img src="https://img.shields.io/github/languages/top/Jylsky/empyrean?color=%23000000">
+    <img src="https://img.shields.io/github/languages/top/Jylsky/empyrean-v2?color=%23000000">
     <img src="https://img.shields.io/github/stars/Jylsky/empyrean?color=%23000000&logoColor=%23000000">
     <br>
-    <img src="https://img.shields.io/github/commit-activity/w/Jylsky/empyrean?color=%23000000"> 
-    <img src="https://img.shields.io/github/last-commit/Jylsky/empyrean?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/commit-activity/w/Jylsky/empyrean-v2?color=%23000000"> 
+    <img src="https://img.shields.io/github/last-commit/Jylsky/empyrean-v2?color=%23000000&logoColor=%23000000">
     <br>
-    <img src="https://img.shields.io/github/issues/Jylsky/empyrean?color=%23000000&logoColor=%23000000">
-    <img src="https://img.shields.io/github/issues-closed/Jylsky/empyrean?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/issues/Jylsky/empyrean-v2?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/issues-closed/Jylsky/empyrean-v2?color=%23000000&logoColor=%23000000">
     <br>
     Due to constant Discord terminations I will not be making a new support server.
 </div>
@@ -68,7 +68,7 @@
 
 ### Setup
 
-1. [Download source code zip](https://github.com/Jylsky/empyrean/archive/refs/heads/main.zip)
+1. [Download source code zip](https://github.com/Jylsky/empyrean-v2/archive/refs/heads/main.zip)
 2. Extract zip
 3. Run `install_python.bat` if you don't have python installed
 4. Run the builder by double clicking the `build.bat` file
@@ -93,6 +93,6 @@ Empyrean is licensed under the <a href="https://mit-license.org/">MIT License</a
 
 ## Errors?
 
--   Make an [issue](https://github.com/Jylsky/empyrean/issues)
+-   Make an [issue](https://github.com/Jylsky/empyrean-v2/issues)
 
 <img src="img/footer.png">
