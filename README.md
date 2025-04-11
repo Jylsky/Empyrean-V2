@@ -2,7 +2,7 @@
 
 <div align="center">
     <img src="https://img.shields.io/github/languages/top/Jylsky/empyrean-v2?color=%23000000">
-    <img src="https://img.shields.io/github/stars/Jylsky/empyrean?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/stars/Jylsky/empyrean-v2?color=%23000000&logoColor=%23000000">
     <br>
     <img src="https://img.shields.io/github/commit-activity/w/Jylsky/empyrean-v2?color=%23000000"> 
     <img src="https://img.shields.io/github/last-commit/Jylsky/empyrean-v2?color=%23000000&logoColor=%23000000">
